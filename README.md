@@ -16,6 +16,13 @@ Tic-Tac-Toe is a classic two-player strategy game implemented in HTML. This proj
 Thanks for trying my game! :D
 
 
+
+
+https://github.com/user-attachments/assets/5eab05f2-761e-4102-87b2-381f2ab135ff
+
+
+
+
 ### SPANISH
 
 Tic-Tac-Toe es un clásico juego de estrategia para dos jugadores, implementado en html. Este proyecto ofrece una versión interactiva del juego, con una interfaz web y funcionalidades como:

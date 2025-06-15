@@ -18,7 +18,9 @@ Thanks for trying my game! :D
 
 
 
-https://github.com/user-attachments/assets/5eab05f2-761e-4102-87b2-381f2ab135ff
+https://github.com/user-attachments/assets/8147d502-acdf-4e15-bc30-a4c01bf74640
+
+
 
 
 
